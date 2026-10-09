@@ -1,0 +1,4 @@
+# What vn2_play.py writes: the six orders of your policy. The benchmark's are in Benchmark/.
+/Orders - */
+__pycache__/
+*.pyc

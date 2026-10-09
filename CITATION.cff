@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use the data or the code of VN2, please cite the competition."
+type: dataset
+title: "VN2 Inventory Planning Challenge"
+abstract: >-
+  Weekly sales and in-stock flags of 599 store-product combinations (297 products in 67 stores of an
+  anonymous retailer), from April 2021 to June 2024, from the VN2 inventory competition of 2025.
+  With the official simulator, the benchmark and the starting inventory.
+authors:
+  - family-names: Vandeput
+    given-names: Nicolas
+    affiliation: SupChains
+    website: "https://supchains.com/"
+date-released: 2025-09-29
+url: "https://supchains.com/vn2-inventory-competition/"
+repository-code: "https://github.com/SupChains/VN2"
+license: CC-BY-4.0
+keywords:
+  - inventory optimization
+  - inventory planning
+  - supply chain
+  - retail
+  - simulation
+  - inventory competition
+preferred-citation:
+  type: generic
+  title: "VN2 Inventory Planning Challenge"
+  authors:
+    - family-names: Vandeput
+      given-names: Nicolas
+      affiliation: SupChains
+  year: 2025
+  url: "https://supchains.com/vn2-inventory-competition/"
+  notes: "Organized by Nicolas Vandeput (SupChains). Sponsored by Flieber, Daybreak and SupChains."
