@@ -1,6 +1,6 @@
 # VN2 Inventory Planning Challenge: data, simulator and benchmark
 
-[![DOI](https://zenodo.org/badge/1411623454.svg)](https://doi.org/10.5281/zenodo.23265105)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23265105-blue.svg)](https://doi.org/10.5281/zenodo.23265105)
 
 VN2 was an inventory planning competition organized by Nicolas Vandeput ([SupChains](https://supchains.com/))
 in 2025, the first public inventory planning competition. Over 180 participants ordered stock for
