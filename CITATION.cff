@@ -12,6 +12,7 @@ authors:
     affiliation: SupChains
     website: "https://supchains.com/"
 date-released: 2025-09-29
+doi: 10.5281/zenodo.23265105
 url: "https://supchains.com/vn2-inventory-competition/"
 repository-code: "https://github.com/SupChains/VN2"
 license: CC-BY-4.0
@@ -30,5 +31,6 @@ preferred-citation:
       given-names: Nicolas
       affiliation: SupChains
   year: 2025
+  doi: 10.5281/zenodo.23265105
   url: "https://supchains.com/vn2-inventory-competition/"
   notes: "Organized by Nicolas Vandeput (SupChains). Sponsored by Flieber, Daybreak and SupChains."
